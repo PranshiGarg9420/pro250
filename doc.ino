@@ -1,4 +1,4 @@
-#include "thingProperties.h"
+include "thingProperties.h"
 
 int ledPin=23;
 
